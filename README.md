@@ -1,5 +1,4 @@
 # Assignment
-Assignment form Simplilearn 
 phase 1 Project.
 
 Project Title: LockedMe.com
